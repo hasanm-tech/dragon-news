@@ -1,0 +1,27 @@
+input{
+    border: none !important;
+    background-color: #F3F3F3 !important;
+    padding: 15px !important;
+    
+}
+
+input:focus{
+    outline: none !important;
+    box-shadow: none !important;
+}
+label.form-label {
+    font-weight: 500;
+}
+button{
+    padding: 15px !important;padding: 15px !important;
+}
+.redirect{
+    font-weight: 500;
+}
+label.form-check-label {
+    font-weight: 500;
+}
+.check input{
+    background-color: #575757 !important;
+    margin: 0 10px;
+}

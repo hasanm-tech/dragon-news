@@ -1,0 +1,14 @@
+.category p a{
+ color: #9F9F9F;
+ font-size: 18px;
+}
+.category p a{
+ padding: 10px 5px;
+}
+.category p:hover{
+    background-color: #9F9F9F !important;
+    color: #403F3F;
+}
+.category p:hover a{
+    color: #403F3F;
+}
